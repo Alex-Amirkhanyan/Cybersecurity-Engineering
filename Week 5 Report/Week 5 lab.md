@@ -106,7 +106,7 @@ First I will get a real service to test with:
 
 For that my first step is starting and enabling the SSH service on kali, as it is turned off there by default.
 
-As mentioned earlier in the section "To Instructor", the default traffic flow is disabled. The server does not let anything flow through itself, besides the pings. To watch the traffic cross and then close it myself, I first open the gateway:
+The default traffic flow is disabled. The server does not let anything flow through itself, besides the pings. To watch the traffic cross and then close it myself, I first open the gateway:
 
 ![PowerShell Get-LocalUser output](<Week5/Pasted image 20261105204124.png>)
 
